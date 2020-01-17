@@ -1,3 +1,5 @@
+import melon_log
+
 ############
 # Part 1   #
 ############
@@ -139,6 +141,8 @@ def get_sellability_report(melons):
 
     # Fill in the rest 
 
+def read_melon_log(melon_log)
+
 
 all_melon_types = make_melon_types()
 
@@ -149,3 +153,4 @@ print_pairing_info(all_melon_types)
 melons = make_melons(all_melon_types)
 
 get_sellability_report(melons)
+
